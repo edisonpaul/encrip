@@ -16,7 +16,7 @@ import java.sql.Statement;
 
 /**
  *
- * @author Analista
+ * @author eyanchatipan
  */
 public class Conexion
 {
@@ -37,8 +37,6 @@ public class Conexion
     static String rutaEnviables;
     
     static String urlConexion;
-  
-    
         
     File archivo=null;
     FileReader archivoLeido=null;
